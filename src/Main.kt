@@ -90,6 +90,7 @@ abstract class Character(val name: String, maxHealth: Int)
 
     var weaponBonus: Int = 0
         protected set
+    // vhhv
 
     var strengthBonus: Int = 0
         protected set
